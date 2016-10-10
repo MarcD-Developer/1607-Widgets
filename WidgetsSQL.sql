@@ -1,11 +1,3 @@
---picking a widget with a quantity, state
-
---button that will display discount, sales tax, total price
---widges should have name, base price, and discount indicator (true/false)
---if discount indicator is true, there is a discount of 10% 
---total price should be determined by adding base price - discount (plus tax)
---tax based on state, (5% unless TX or FL which have no tax)
-
 create database widgetsDB;
 go
 
